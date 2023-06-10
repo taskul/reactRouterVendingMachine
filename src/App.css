@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.App nav a {
+    margin: 20px;
+    color: #6c1cd4
+}
+
+.App nav a.active {
+    color: black
+}
